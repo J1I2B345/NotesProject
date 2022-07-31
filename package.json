@@ -4,7 +4,8 @@
   "description": "To made a chat first I tried this application. Following the video of Fazt I understood Socket with Express.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon dist/index.js",
+    "dev": "nodemon src/index.src --exec babel-node",
+    "start": "node dist/index.js",
     "build": "babel src -d dist --copy-files"
   },
   "repository": {

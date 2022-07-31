@@ -1,5 +1,5 @@
 const path = require('path');
-require('dotenv').config({ path: path.resolve(__dirname, './.env') });
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 import serverExpress from './app';
 import {Server} from "socket.io";
 import http from 'http';
