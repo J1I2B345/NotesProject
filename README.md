@@ -22,3 +22,5 @@ but you can also clone this respository and:
 ## Project Screens
 
 - Home
+![Notes](https://user-images.githubusercontent.com/103390530/185763728-42a7fbc0-6107-4fa1-869e-52f0526a7e60.png)
+
