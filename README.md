@@ -18,6 +18,7 @@ but you can also clone this respository and:
 
 - open the project console
   - inside, run the command line, `npm install` then, `npm start`
+  - go to [http://localhost:3001/](http://localhost:3001/)
 
 ## Project Screens
 
